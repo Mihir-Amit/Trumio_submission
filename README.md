@@ -1,9 +1,9 @@
 # Trumio_submission
 
-# Quiz-Platform
+# Trumio-Ascend
 ## Installation
 
-To install Quiz-Platform on, follow these steps:
+To install Trumio-Ascend on, follow these steps:
 
 1. Clone the repository.
 2. Install the dependencies in both the client and server directories by running `npm install` at the root directory.
@@ -24,4 +24,4 @@ The MONGODB_URI is the connection string to your MongoDB database. The JWT_SECRE
 Contributions to Quiz-Platform are welcome and encouraged! If you'd like to contribute to this project, please fork the repository and submit a pull request.
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the Trumio-Ascend.
